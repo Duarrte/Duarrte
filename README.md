@@ -2,7 +2,7 @@ Hi! Eu sou o Luan Duarte
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Analise e Desenvolvimento de sistema 2/8
+- 🌱 Estudante Analise e Desenvolvimento de sistema 4/8
 <div align="center">
   <a href="https://github.com/Duarrte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duarrte&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
